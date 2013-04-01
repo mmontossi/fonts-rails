@@ -1,0 +1,18 @@
+{<img src="https://codeclimate.com/github/mattways/fonts-rails.png" />}[https://codeclimate.com/github/mattways/fonts-rails] {<img src="https://travis-ci.org/mattways/fonts-rails.png?branch=master" alt="Build Status" />}[https://travis-ci.org/mattways/fonts-rails] {<img src="https://gemnasium.com/mattways/fonts-rails.png" alt="Dependency Status" />}[https://gemnasium.com/mattways/fonts-rails]
+
+= Fonts Rails
+
+Adds a simple helper to create the google fonts link tag.
+
+= Install
+
+Put this line in your Gemfile:
+  gem 'fonts-rails'
+  
+Then bundle:
+  $ bundle
+
+= Usage
+  
+In your layout add a line like this in your head:
+  = google_fonts_link_tag 'Open+Sans:300'

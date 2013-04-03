@@ -2,8 +2,8 @@ module Fonts
   module Rails
     class Railtie < ::Rails::Railtie
 
-      ActiveSupport.on_load(:action_view) do
-        include Fonts::Rails::Helpers
+      initializer 'fonts.helpers' do
+        ActionView::Base.send :include, Fonts::Rails::Helpers
       end
 
     end

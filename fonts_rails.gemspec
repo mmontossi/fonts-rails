@@ -12,6 +12,7 @@ Gem::Specification.new do |s|
   s.homepage    = 'https://github.com/mattways/fonts-rails'
   s.summary     = 'Google Fonts for Rails.'
   s.description = 'Adds a simple view helper to create the google fonts link tag.'
+  s.license     = 'MIT'
 
   s.files = Dir["{app,config,db,lib}/**/*"] + ['MIT-LICENSE', 'Rakefile', 'README.rdoc']
   s.test_files = Dir['test/**/*']

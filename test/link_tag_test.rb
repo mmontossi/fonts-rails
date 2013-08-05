@@ -1,6 +1,6 @@
 require 'test_helper'
 
-class HelpersTest < ActionDispatch::IntegrationTest
+class LinkTagTest < ActionDispatch::IntegrationTest
 
   test "should add google fonts tag" do
     get '/'

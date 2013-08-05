@@ -7,9 +7,9 @@ module Fonts
           tag(
             :link, 
             {
-              :rel => :stylesheet,
-              :type => Mime::CSS,
-              :href => "http://fonts.googleapis.com/css?family=#{family}"
+              rel: :stylesheet,
+              type: Mime::CSS,
+              href: "http://fonts.googleapis.com/css?family=#{family}"
             },
             false, 
             false

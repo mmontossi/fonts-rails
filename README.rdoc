@@ -15,4 +15,4 @@ Then bundle:
 = Usage
   
 In your layout add a line like this in your head:
-  = google_fonts_link_tag 'Open+Sans:300'
+  <%= google_fonts_link_tag 'Open+Sans:300' %>

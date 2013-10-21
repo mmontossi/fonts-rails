@@ -9,7 +9,7 @@ module Fonts
             {
               rel: :stylesheet,
               type: Mime::CSS,
-              href: "http://fonts.googleapis.com/css?family=#{family}"
+              href: "#{request.protocol}fonts.googleapis.com/css?family=#{family}"
             },
             false, 
             false

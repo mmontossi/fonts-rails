@@ -1,4 +1,4 @@
-{<img src="https://codeclimate.com/github/mattways/fonts-rails.png" />}[https://codeclimate.com/github/mattways/fonts-rails] {<img src="https://travis-ci.org/mattways/fonts-rails.png?branch=master" alt="Build Status" />}[https://travis-ci.org/mattways/fonts-rails] {<img src="https://gemnasium.com/mattways/fonts-rails.png" alt="Dependency Status" />}[https://gemnasium.com/mattways/fonts-rails]
+{<img src="https://badge.fury.io/rb/fonts-rails.png" alt="Gem Version" />}[http://badge.fury.io/rb/fonts-rails] {<img src="https://codeclimate.com/github/museways/fonts-rails.png" />}[https://codeclimate.com/github/museways/fonts-rails] {<img src="https://travis-ci.org/museways/fonts-rails.png?branch=master" alt="Build Status" />}[https://travis-ci.org/museways/fonts-rails] {<img src="https://gemnasium.com/museways/fonts-rails.png" alt="Dependency Status" />}[https://gemnasium.com/museways/fonts-rails]
 
 = Fonts Rails
 

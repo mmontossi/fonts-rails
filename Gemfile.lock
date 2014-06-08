@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    fonts-rails (0.1.0)
+    fonts-rails (0.0.9)
       rails (~> 4.1, >= 3.1.0)
 
 GEM

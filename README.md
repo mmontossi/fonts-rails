@@ -12,13 +12,14 @@ gem 'fonts-rails'
 ```
 
 Then bundle:
-
-    $ bundle
+```
+$ bundle
+```
 
 ## Usage
 
 In your layout call the helper like this:
-```ruby
+```erb
 <%= google_fonts_link_tag 'Open+Sans:300' %>
 ```
 

@@ -5,13 +5,13 @@ module Fonts
 
         def google_fonts_link_tag(family)
           tag(
-            :link, 
+            :link,
             {
               rel: :stylesheet,
               type: Mime::CSS,
               href: "#{request.protocol}fonts.googleapis.com/css?family=#{family}"
             },
-            false, 
+            false,
             false
           )
         end

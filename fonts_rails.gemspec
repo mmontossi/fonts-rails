@@ -7,9 +7,9 @@ require 'fonts/rails/version'
 Gem::Specification.new do |s|
   s.name        = 'fonts-rails'
   s.version     = Fonts::Rails::VERSION
-  s.authors     = ['Museways']
-  s.email       = ['hello@museways.com']
-  s.homepage    = 'https://github.com/museways/fonts-rails'
+  s.authors     = ['mmontossi']
+  s.email       = ['mmontossi@buyin.io']
+  s.homepage    = 'https://github.com/mmontossi/fonts-rails'
   s.summary     = 'Google fonts for rails.'
   s.description = 'Adds a simple view helper to create the google fonts link tag in rails.'
   s.license     = 'MIT'

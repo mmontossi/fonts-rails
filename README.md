@@ -1,4 +1,6 @@
-[![Gem Version](https://badge.fury.io/rb/fonts-rails.svg)](http://badge.fury.io/rb/fonts-rails) [![Code Climate](https://codeclimate.com/github/museways/fonts-rails/badges/gpa.svg)](https://codeclimate.com/github/museways/fonts-rails) [![Build Status](https://travis-ci.org/museways/fonts-rails.svg?branch=master)](https://travis-ci.org/museways/fonts-rails) [![Dependency Status](https://gemnasium.com/museways/fonts-rails.svg)](https://gemnasium.com/museways/fonts-rails)
+[![Gem Version](https://badge.fury.io/rb/fonts-rails.svg)](http://badge.fury.io/rb/fonts-rails)
+[![Code Climate](https://codeclimate.com/github/mmontossi/fonts-rails/badges/gpa.svg)](https://codeclimate.com/github/mmontossi/fonts-rails) [![Build Status](https://travis-ci.org/mmontossi/fonts-rails.svg)](https://travis-ci.org/mmontossi/fonts-rails)
+[![Dependency Status](https://gemnasium.com/mmontossi/fonts-rails.svg)](https://gemnasium.com/mmontossi/fonts-rails)
 
 # Fonts Rails
 
@@ -25,7 +27,7 @@ In your layout call the helper like this:
 
 ## Credits
 
-This gem is maintained and funded by [museways](http://museways.com).
+This gem is maintained and funded by [mmontossi](https://github.com/mmontossi).
 
 ## License
 

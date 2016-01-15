@@ -1,5 +1,6 @@
 [![Gem Version](https://badge.fury.io/rb/fonts-rails.svg)](http://badge.fury.io/rb/fonts-rails)
-[![Code Climate](https://codeclimate.com/github/mmontossi/fonts-rails/badges/gpa.svg)](https://codeclimate.com/github/mmontossi/fonts-rails) [![Build Status](https://travis-ci.org/mmontossi/fonts-rails.svg)](https://travis-ci.org/mmontossi/fonts-rails)
+[![Code Climate](https://codeclimate.com/github/mmontossi/fonts-rails/badges/gpa.svg)](https://codeclimate.com/github/mmontossi/fonts-rails)
+[![Build Status](https://travis-ci.org/mmontossi/fonts-rails.svg)](https://travis-ci.org/mmontossi/fonts-rails)
 [![Dependency Status](https://gemnasium.com/mmontossi/fonts-rails.svg)](https://gemnasium.com/mmontossi/fonts-rails)
 
 # Fonts Rails

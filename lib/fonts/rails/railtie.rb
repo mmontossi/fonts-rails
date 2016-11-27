@@ -2,8 +2,10 @@ module Fonts
   module Rails
     class Railtie < ::Rails::Railtie
 
-      initializer 'fonts.rails' do
-        ::ActionView::Base.send :include, Fonts::Rails::ActionView::Base
+      initializer :fonts do
+        ::ActionView::Base.include(
+          Fonts::Rails::Extensions::ActionView::Base
+        )
       end
 
     end

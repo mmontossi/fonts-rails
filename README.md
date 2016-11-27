@@ -5,7 +5,13 @@
 
 # Fonts Rails
 
-Adds a simple helper to create the google fonts link tag in rails.
+Adds a helper to create the google fonts link tag in rails.
+
+## Why
+
+I did this gem to:
+
+- Normalize all html with dashes instead of underscores.
 
 ## Install
 

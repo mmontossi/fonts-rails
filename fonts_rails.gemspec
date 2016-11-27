@@ -11,7 +11,7 @@ Gem::Specification.new do |s|
   s.email       = ['mmontossi@buyin.io']
   s.homepage    = 'https://github.com/mmontossi/fonts-rails'
   s.summary     = 'Google fonts for rails.'
-  s.description = 'Adds a helper to create the google fonts link tag in rails.'
+  s.description = 'Adds a helper to create the google fonts link in rails.'
   s.license     = 'MIT'
 
   s.files = Dir['{app,config,db,lib}/**/*', 'MIT-LICENSE', 'Rakefile', 'README.md']

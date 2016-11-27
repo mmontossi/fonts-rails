@@ -8,7 +8,7 @@ Gem::Specification.new do |s|
   s.name        = 'fonts-rails'
   s.version     = Fonts::Rails::VERSION
   s.authors     = ['mmontossi']
-  s.email       = ['mmontossi@buyin.io']
+  s.email       = ['mmontossi@gmail.com']
   s.homepage    = 'https://github.com/mmontossi/fonts-rails'
   s.summary     = 'Google fonts for rails.'
   s.description = 'Adds a helper to create the google fonts link in rails.'

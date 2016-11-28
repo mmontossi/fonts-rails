@@ -27,7 +27,7 @@ $ bundle
 
 ## Usage
 
-In your layout call the helper like this:
+In your layout add a line like this in your head:
 ```erb
 <%= google_fonts_link_tag 'Open+Sans:300' %>
 ```
